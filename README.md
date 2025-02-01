@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhinandankaushik
+- 👋 Hi, I’m Abhinandankaushik
 - I am a passionate problem solver with deep and practical expertise in C++ and Java. My focus lies in writing efficient, scalable, and optimized code. I enjoy tackling challenging problems, exploring algorithmic design, and improving system performance.
 - Programming Languages: C++, Java
 - Core Strengths : Data Structures, Algorithms, Problem Solving
