@@ -1,4 +1,4 @@
--👋 Hi, I’m Abhinandan Kaushik
+👋 Hi, I’m Abhinandan Kaushik
 - I am a passionate problem solver with deep and practical expertise in C++ and Java. My focus lies in writing efficient, scalable, and optimized code. I enjoy tackling challenging problems, exploring algorithmic design, and improving system performance.
 
 - 🛠️ Skills & Technologies
