@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MERN STACK**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Nodejs,Express,MongoDB etc**
 
