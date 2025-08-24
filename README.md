@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abhinandan Kaushik</h1>
-<h3 align="center">A passionate problem solver from India</h3>
+<h3 align="center">A passionate problem solver and Full stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinandankaushik&label=Profile%20views&color=0e75b6&style=flat" alt="abhinandankaushik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinandankaushik" alt="abhinandankaushik" /></a> </p>
 
-- 🔭 I’m currently working on **MERN STACK**
+- 🔭 I’m currently working on **Open Source**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **Nodejs,Express,MongoDB etc**
+- 💬 Ask me about **Nodejs,Express,MongoDB,Redis,Docker etc**
 
 - 📫 How to reach me **abhinandankaushik.official@gmail.com**
 
