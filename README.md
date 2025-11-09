@@ -76,7 +76,7 @@
 | **LeetCode Daily Challenge 2025** | [🔗 Visit Repo](https://github.com/Abhinandankaushik/LEET-CODE-DAILY-CHALLENGE-2025) | My consistent daily problem-solving journey on LeetCode |
 | **LeetLab** | [🔗 Visit Repo](https://github.com/Abhinandankaushik/LeetLab) | LeetLab online coding platform where user can create and solve a problem |
 | **CoCanvas** | [🔗 Visit Repo](https://github.com/Abhinandankaushik/CoCanvas) | A real-time collaborative whiteboard built using WebSockets and Node.js |
-| **Mentorly** | [🔗 Visit Repo](https://github.com/Abhinandankaushik/Mentorly) | A mentorship platform connecting developers with industry experts |
+| **Mentorly** | [🔗 Visit Repo](https://github.com/Abhinandankaushik/Mentorly) | A mentorship platform which gives you personalized roadmap using Ai |
 | **Node.js Docker Setup** | *(Private)* | Production-ready Docker setup for full-stack apps with Prisma & Postgres |
 
 </div>
