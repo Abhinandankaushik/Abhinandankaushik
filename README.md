@@ -1,35 +1,109 @@
-<h1 align="center">Hi 👋, I'm Abhinandan Kaushik</h1>
-<h3 align="center">A passionate problem solver and Full stack Developer from India</h3>
+<!-- Header -->
+<div align="center">
+  
+# 👋 Hey there, I'm <span style="color:#00bfff;">Abhinandan Kaushik</span>  
+### 💻 Full-Stack Developer | 🚀 Open-Source Contributor | 🧠 Problem Solver
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinandankaushik&label=Profile%20views&color=0e75b6&style=flat" alt="abhinandankaushik" /> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=abhinandankaushik&label=Profile%20Views&color=0e75b6&style=flat)]()
+[![GitHub followers](https://img.shields.io/github/followers/abhinandankaushik?label=Followers&style=social)](https://github.com/abhinandankaushik)
+[![GitHub stars](https://img.shields.io/github/stars/abhinandankaushik?label=Stars&style=social)](https://github.com/abhinandankaushik)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinandankaushik" alt="abhinandankaushik" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on **Open Source**
+---
 
-- 🌱 I’m currently learning **Typescript**
+## 🌱 About Me  
 
-- 💬 Ask me about **Nodejs,Express,MongoDB,Redis,Docker etc**
+- 🔭 Currently working on **Open Source** projects  
+- 🌱 Learning **TypeScript** & **Advanced System Design**  
+- 💬 Ask me about **Node.js, Express, PostgreSQL, MongoDB, Redis, Docker**  
+- ⚡ Fun fact: I love optimizing code till it’s elegant ✨  
+- 📫 Reach me at **[abhinandankaushik.official@gmail.com](mailto:abhinandankaushik.official@gmail.com)**  
 
-- 📫 How to reach me **abhinandankaushik.official@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhinandan16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinandan16" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abhii1716" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhii1716" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhinandankaush1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhinandankaush1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abhinandan_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhinandan_17" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhinandankaushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinandankaushik" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abhinandankm1wx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhinandankm1" height="30" width="40" /></a>
-<a href="https://github.com/Abhinandankaushik/LEET-CODE-DAILY-CHALLENGE-2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="abhinandankaushik/leet-code-daily-challenge-2025" height="30" width="40" /></a>
+## 🤝 Connect With Me  
+
+<div align="center">
+  <a href="https://linkedin.com/in/abhinandan16" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/></a>
+  <a href="https://www.codechef.com/users/abhii1716" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="45" alt="CodeChef"/></a>
+  <a href="https://codeforces.com/profile/abhinandan_17" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="45" alt="Codeforces"/></a>
+  <a href="https://leetcode.com/abhinandankaushik" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="45" alt="LeetCode"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/abhinandankm1wx/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="45" alt="GeeksForGeeks"/></a>
+</div>
+
+---
+
+## 🧠 Tech Stack  
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,nodejs,express,react,nextjs,html,css,bootstrap,postgres,mongodb,redis,docker,linux,git,prisma" />
+</div>
+
+---
+
+## 📈 My GitHub Performance  
+
+<div align="center">
+
+### ⚡ Streak Stats  
+![GitHub Streak](https://streak-stats.demolab.com?user=abhinandankaushik&theme=tokyonight&hide_border=true)
+
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinandankaushik&show_icons=true&theme=tokyonight&hide_border=true)
+
+### 🧮 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandankaushik&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Achievements  
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinandankaushik&theme=tokyonight&column=6&margin-w=10&margin-h=10" alt="trophies" />
+</div>
+
+---
+
+## 🧩 Featured Projects  
+
+<div align="center">
+
+| 🚀 Project | 🔗 Link | 📝 Description |
+|------------|----------|----------------|
+| **LeetCode Daily Challenge 2025** | [🔗 Visit Repo](https://github.com/Abhinandankaushik/LEET-CODE-DAILY-CHALLENGE-2025) | My consistent daily problem-solving journey on LeetCode |
+| **LeetLab** | [🔗 Visit Repo](https://github.com/Abhinandankaushik/LeetLab) | A web app to track and visualize LeetCode progress, built with Next.js & Prisma |
+| **CoCanvas** | [🔗 Visit Repo](https://github.com/Abhinandankaushik/CoCanvas) | A real-time collaborative whiteboard built using WebSockets and Node.js |
+| **Mentorly** | [🔗 Visit Repo](https://github.com/Abhinandankaushik/Mentorly) | A mentorship platform connecting developers with industry experts |
+| **Node.js Docker Setup** | *(Private)* | Production-ready Docker setup for full-stack apps with Prisma & Postgres |
+
+</div>
+
+---
+
+## 🌠 Quote I Live By  
+<div align="center">
+  
+> “Code is like humor. When you have to explain it, it’s bad.”  
+> — *Cory House*
+  
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github.com/abhinandankaushik/abhinandankaushik/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinandankaushik&show_icons=true&locale=en&layout=compact" alt="abhinandankaushik" /></p>
+<div align="center">
+  
+### Thanks for stopping by! ⭐  
+If you like my work, consider giving a **⭐️** on my repositories.  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandankaushik&show_icons=true&locale=en" alt="abhinandankaushik" /></p>
+#### Made with ❤️ by [Abhinandan Kaushik](https://github.com/abhinandankaushik)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinandankaushik&" alt="abhinandankaushik" /></p>
-
+</div>
