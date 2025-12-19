@@ -15,7 +15,7 @@
 ## 🌱 About Me  
 
 - 🔭 Currently working on **Open Source** projects  
-- 🌱 Learning **TypeScript** & **Advanced System Design**  
+- 🌱 Learning **Kubernetes** & **Advanced DevOps**  
 - 💬 Ask me about **Node.js, Express, PostgreSQL, MongoDB, Redis, Docker**  
 - ⚡ Fun fact: I love optimizing code till it’s elegant ✨  
 - 📫 Reach me at **[abhinandankaushik.official@gmail.com](mailto:abhinandankaushik.official@gmail.com)**  
